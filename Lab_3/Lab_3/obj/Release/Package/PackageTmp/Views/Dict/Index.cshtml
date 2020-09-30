@@ -1,0 +1,26 @@
+﻿@using Lab_3.Models
+@{
+    Layout = null;
+    List<Telephone> telephones = ViewBag.getAll;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h1>All contacts</h1>
+        @foreach (Telephone telephone in telephones)
+        {
+            <p>id: @telephone.id,      Surname: @telephone.surname,      Number: @telephone.number</p>
+        }
+        <h2>@Html.ActionLink("Add", "Add")</h2>
+        <h2>@Html.ActionLink("Update", "Update")</h2>
+        <h2>@Html.ActionLink("Delete", "Delete")</h2>
+    </div>
+</body>
+</html>

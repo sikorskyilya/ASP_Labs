@@ -1,0 +1,50 @@
+D:\ASP\Лабы\Lab_7b\Lab_7b\bin\Debug\Lab7b.exe.config
+D:\ASP\Лабы\Lab_7b\Lab_7b\bin\Debug\Lab7b.exe
+D:\ASP\Лабы\Lab_7b\Lab_7b\bin\Debug\Lab7b.pdb
+D:\ASP\Лабы\Lab_7b\Lab_7b\bin\Debug\Newtonsoft.Json.dll
+D:\ASP\Лабы\Lab_7b\Lab_7b\bin\Debug\Newtonsoft.Json.xml
+D:\ASP\Лабы\Lab_7b\Lab_7b\obj\Debug\Lab7b.Form1.resources
+D:\ASP\Лабы\Lab_7b\Lab_7b\obj\Debug\Lab7b.Properties.Resources.resources
+D:\ASP\Лабы\Lab_7b\Lab_7b\obj\Debug\Lab_7b.csproj.GenerateResource.cache
+D:\ASP\Лабы\Lab_7b\Lab_7b\obj\Debug\Lab_7b.csproj.CoreCompileInputs.cache
+D:\ASP\Лабы\Lab_7b\Lab_7b\obj\Debug\Lab_7b.csproj.CopyComplete
+D:\ASP\Лабы\Lab_7b\Lab_7b\obj\Debug\Lab7b.exe
+D:\ASP\Лабы\Lab_7b\Lab_7b\obj\Debug\Lab7b.pdb
+D:\ASP\Лабы\Lab_7b\Lab_7b\obj\Debug\Lab_7b.csprojAssemblyReference.cache
+D:\ASP\Лабы\Lab_7c\Lab_7b\bin\Debug\Lab7b.exe.config
+D:\ASP\Лабы\Lab_7c\Lab_7b\bin\Debug\Lab7b.exe
+D:\ASP\Лабы\Lab_7c\Lab_7b\bin\Debug\Lab7b.pdb
+D:\ASP\Лабы\Lab_7c\Lab_7b\bin\Debug\Newtonsoft.Json.dll
+D:\ASP\Лабы\Lab_7c\Lab_7b\bin\Debug\Newtonsoft.Json.xml
+D:\ASP\Лабы\Lab_7c\Lab_7b\obj\Debug\Lab_7b.csprojAssemblyReference.cache
+D:\ASP\Лабы\Lab_7c\Lab_7b\obj\Debug\Lab7b.Form1.resources
+D:\ASP\Лабы\Lab_7c\Lab_7b\obj\Debug\Lab7b.Properties.Resources.resources
+D:\ASP\Лабы\Lab_7c\Lab_7b\obj\Debug\Lab_7b.csproj.GenerateResource.cache
+D:\ASP\Лабы\Lab_7c\Lab_7b\obj\Debug\Lab_7b.csproj.CoreCompileInputs.cache
+D:\ASP\Лабы\Lab_7c\Lab_7b\obj\Debug\Lab_7b.csproj.CopyComplete
+D:\ASP\Лабы\Lab_7c\Lab_7b\obj\Debug\Lab7b.exe
+D:\ASP\Лабы\Lab_7c\Lab_7b\obj\Debug\Lab7b.pdb
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Lab_7b\bin\Debug\Lab7b.exe.config
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Lab_7b\bin\Debug\Lab7b.exe
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Lab_7b\bin\Debug\Lab7b.pdb
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Lab_7b\bin\Debug\Newtonsoft.Json.dll
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Lab_7b\bin\Debug\Newtonsoft.Json.xml
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Lab_7b\obj\Debug\Lab_7b.csprojAssemblyReference.cache
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Lab_7b\obj\Debug\Lab7b.Form1.resources
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Lab_7b\obj\Debug\Lab7b.Properties.Resources.resources
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Lab_7b\obj\Debug\Lab_7b.csproj.GenerateResource.cache
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Lab_7b\obj\Debug\Lab_7b.csproj.CopyComplete
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Lab_7b\obj\Debug\Lab7b.exe
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Lab_7b\obj\Debug\Lab7b.pdb
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Lab_7b\bin\Debug\Lab7b.exe.config
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Lab_7b\bin\Debug\Lab7b.exe
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Lab_7b\bin\Debug\Lab7b.pdb
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Lab_7b\bin\Debug\Newtonsoft.Json.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Lab_7b\bin\Debug\Newtonsoft.Json.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Lab_7b\obj\Debug\Lab_7b.csprojAssemblyReference.cache
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Lab_7b\obj\Debug\Lab7b.Form1.resources
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Lab_7b\obj\Debug\Lab7b.Properties.Resources.resources
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Lab_7b\obj\Debug\Lab_7b.csproj.GenerateResource.cache
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Lab_7b\obj\Debug\Lab_7b.csproj.CopyComplete
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Lab_7b\obj\Debug\Lab7b.exe
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Lab_7b\obj\Debug\Lab7b.pdb

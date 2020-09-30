@@ -1,0 +1,5 @@
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\TelephoneInterface\bin\Debug\TelephoneInterface.dll.config
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\TelephoneInterface\bin\Debug\TelephoneInterface.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\TelephoneInterface\bin\Debug\TelephoneInterface.pdb
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\TelephoneInterface\obj\Debug\TelephoneInterface.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\TelephoneInterface\obj\Debug\TelephoneInterface.pdb

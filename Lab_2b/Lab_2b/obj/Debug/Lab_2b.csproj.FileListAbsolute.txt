@@ -1,0 +1,84 @@
+C:\Users\dimas\Desktop\ASP\Lab_2\Lab_2b\Lab_2b\bin\Lab_2b.dll.config
+C:\Users\dimas\Desktop\ASP\Lab_2\Lab_2b\Lab_2b\bin\Lab_2b.dll
+C:\Users\dimas\Desktop\ASP\Lab_2\Lab_2b\Lab_2b\bin\Lab_2b.pdb
+C:\Users\dimas\Desktop\ASP\Lab_2\Lab_2b\Lab_2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dimas\Desktop\ASP\Lab_2\Lab_2b\Lab_2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dimas\Desktop\ASP\Lab_2\Lab_2b\Lab_2b\obj\Debug\Lab_2b.csprojResolveAssemblyReference.cache
+C:\Users\dimas\Desktop\ASP\Lab_2\Lab_2b\Lab_2b\obj\Debug\Lab_2b.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Desktop\ASP\Lab_2\Lab_2b\Lab_2b\obj\Debug\Lab_2b.dll
+C:\Users\dimas\Desktop\ASP\Lab_2\Lab_2b\Lab_2b\obj\Debug\Lab_2b.pdb
+D:\GitHub\ASP.NET\Lab_2\Lab_2b\Lab_2b\bin\Lab_2b.dll.config
+D:\GitHub\ASP.NET\Lab_2\Lab_2b\Lab_2b\bin\Lab_2b.dll
+D:\GitHub\ASP.NET\Lab_2\Lab_2b\Lab_2b\bin\Lab_2b.pdb
+D:\GitHub\ASP.NET\Lab_2\Lab_2b\Lab_2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitHub\ASP.NET\Lab_2\Lab_2b\Lab_2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitHub\ASP.NET\Lab_2\Lab_2b\Lab_2b\obj\Debug\Lab_2b.csprojResolveAssemblyReference.cache
+D:\GitHub\ASP.NET\Lab_2\Lab_2b\Lab_2b\obj\Debug\Lab_2b.csproj.CoreCompileInputs.cache
+D:\GitHub\ASP.NET\Lab_2\Lab_2b\Lab_2b\obj\Debug\Lab_2b.dll
+D:\GitHub\ASP.NET\Lab_2\Lab_2b\Lab_2b\obj\Debug\Lab_2b.pdb
+E:\Настя\6sem\ПИС\Лекции\ASP.NET\Lab_2\Lab_2b\Lab_2b\bin\Lab_2b.dll.config
+E:\Настя\6sem\ПИС\Лекции\ASP.NET\Lab_2\Lab_2b\Lab_2b\bin\Lab_2b.dll
+E:\Настя\6sem\ПИС\Лекции\ASP.NET\Lab_2\Lab_2b\Lab_2b\bin\Lab_2b.pdb
+E:\Настя\6sem\ПИС\Лекции\ASP.NET\Lab_2\Lab_2b\Lab_2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Настя\6sem\ПИС\Лекции\ASP.NET\Lab_2\Lab_2b\Lab_2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Настя\6sem\ПИС\Лекции\ASP.NET\Lab_2\Lab_2b\Lab_2b\obj\Debug\Lab_2b.csprojResolveAssemblyReference.cache
+E:\Настя\6sem\ПИС\Лекции\ASP.NET\Lab_2\Lab_2b\Lab_2b\obj\Debug\Lab_2b.csproj.CoreCompileInputs.cache
+E:\Настя\6sem\ПИС\Лекции\ASP.NET\Lab_2\Lab_2b\Lab_2b\obj\Debug\Lab_2b.dll
+E:\Настя\6sem\ПИС\Лекции\ASP.NET\Lab_2\Lab_2b\Lab_2b\obj\Debug\Lab_2b.pdb
+D:\Study\3k2s\GitRep\Programming-web-servers-2019\02\02\Lab_2b\Lab_2b\bin\Lab_2b.dll.config
+D:\Study\3k2s\GitRep\Programming-web-servers-2019\02\02\Lab_2b\Lab_2b\bin\Lab_2b.dll
+D:\Study\3k2s\GitRep\Programming-web-servers-2019\02\02\Lab_2b\Lab_2b\bin\Lab_2b.pdb
+D:\Study\3k2s\GitRep\Programming-web-servers-2019\02\02\Lab_2b\Lab_2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\3k2s\GitRep\Programming-web-servers-2019\02\02\Lab_2b\Lab_2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\3k2s\GitRep\Programming-web-servers-2019\02\02\Lab_2b\Lab_2b\obj\Debug\Lab_2b.csprojResolveAssemblyReference.cache
+D:\Study\3k2s\GitRep\Programming-web-servers-2019\02\02\Lab_2b\Lab_2b\obj\Debug\Lab_2b.csproj.CoreCompileInputs.cache
+D:\Study\3k2s\GitRep\Programming-web-servers-2019\02\02\Lab_2b\Lab_2b\obj\Debug\Lab_2b.csproj.CopyComplete
+D:\Study\3k2s\GitRep\Programming-web-servers-2019\02\02\Lab_2b\Lab_2b\obj\Debug\Lab_2b.dll
+D:\Study\3k2s\GitRep\Programming-web-servers-2019\02\02\Lab_2b\Lab_2b\obj\Debug\Lab_2b.pdb
+C:\Users\andrei.lastachkin\Downloads\Programming-web-servers-2019-master\Programming-web-servers-2019-master\02\02\Lab_2b\Lab_2b\bin\Lab_2b.dll.config
+C:\Users\andrei.lastachkin\Downloads\Programming-web-servers-2019-master\Programming-web-servers-2019-master\02\02\Lab_2b\Lab_2b\bin\Lab_2b.dll
+C:\Users\andrei.lastachkin\Downloads\Programming-web-servers-2019-master\Programming-web-servers-2019-master\02\02\Lab_2b\Lab_2b\bin\Lab_2b.pdb
+C:\Users\andrei.lastachkin\Downloads\Programming-web-servers-2019-master\Programming-web-servers-2019-master\02\02\Lab_2b\Lab_2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andrei.lastachkin\Downloads\Programming-web-servers-2019-master\Programming-web-servers-2019-master\02\02\Lab_2b\Lab_2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andrei.lastachkin\Downloads\Programming-web-servers-2019-master\Programming-web-servers-2019-master\02\02\Lab_2b\Lab_2b\obj\Debug\Lab_2b.csprojAssemblyReference.cache
+C:\Users\andrei.lastachkin\Downloads\Programming-web-servers-2019-master\Programming-web-servers-2019-master\02\02\Lab_2b\Lab_2b\obj\Debug\Lab_2b.csproj.CopyComplete
+C:\Users\andrei.lastachkin\Downloads\Programming-web-servers-2019-master\Programming-web-servers-2019-master\02\02\Lab_2b\Lab_2b\obj\Debug\Lab_2b.dll
+C:\Users\andrei.lastachkin\Downloads\Programming-web-servers-2019-master\Programming-web-servers-2019-master\02\02\Lab_2b\Lab_2b\obj\Debug\Lab_2b.pdb
+D:\ASP\Лабы\Lab_2b_2\Lab_2b\bin\Lab_2b.dll.config
+D:\ASP\Лабы\Lab_2b_2\Lab_2b\bin\Lab_2b.dll
+D:\ASP\Лабы\Lab_2b_2\Lab_2b\bin\Lab_2b.pdb
+D:\ASP\Лабы\Lab_2b_2\Lab_2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP\Лабы\Lab_2b_2\Lab_2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP\Лабы\Lab_2b_2\Lab_2b\obj\Debug\Lab_2b.csprojAssemblyReference.cache
+D:\ASP\Лабы\Lab_2b_2\Lab_2b\obj\Debug\Lab_2b.csproj.CoreCompileInputs.cache
+D:\ASP\Лабы\Lab_2b_2\Lab_2b\obj\Debug\Lab_2b.csproj.CopyComplete
+D:\ASP\Лабы\Lab_2b_2\Lab_2b\obj\Debug\Lab_2b.dll
+D:\ASP\Лабы\Lab_2b_2\Lab_2b\obj\Debug\Lab_2b.pdb
+D:\ASP\Лабы\Lab_2b\Lab_2b\bin\Lab_2b.dll.config
+D:\ASP\Лабы\Lab_2b\Lab_2b\bin\Lab_2b.dll
+D:\ASP\Лабы\Lab_2b\Lab_2b\bin\Lab_2b.pdb
+D:\ASP\Лабы\Lab_2b\Lab_2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP\Лабы\Lab_2b\Lab_2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP\Лабы\Lab_2b\Lab_2b\obj\Debug\Lab_2b.csproj.CoreCompileInputs.cache
+D:\ASP\Лабы\Lab_2b\Lab_2b\obj\Debug\Lab_2b.csproj.CopyComplete
+D:\ASP\Лабы\Lab_2b\Lab_2b\obj\Debug\Lab_2b.dll
+D:\ASP\Лабы\Lab_2b\Lab_2b\obj\Debug\Lab_2b.pdb
+D:\ASP\Лабы\Lab_2b\Lab_2b\obj\Debug\Lab_2b.csprojAssemblyReference.cache
+D:\studing\6 sem\ASP\Labs\labs\Lab_2b\Lab_2b\bin\Lab_2b.dll.config
+D:\studing\6 sem\ASP\Labs\labs\Lab_2b\Lab_2b\bin\Lab_2b.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_2b\Lab_2b\bin\Lab_2b.pdb
+D:\studing\6 sem\ASP\Labs\labs\Lab_2b\Lab_2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_2b\Lab_2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_2b\Lab_2b\obj\Debug\Lab_2b.csproj.CopyComplete
+D:\studing\6 sem\ASP\Labs\labs\Lab_2b\Lab_2b\obj\Debug\Lab_2b.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_2b\Lab_2b\obj\Debug\Lab_2b.pdb
+D:\studing\6 sem\ASP\Labs\labs\Lab_2b\Lab_2b\obj\Debug\Lab_2b.csprojAssemblyReference.cache
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_2b\Lab_2b\bin\Lab_2b.dll.config
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_2b\Lab_2b\bin\Lab_2b.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_2b\Lab_2b\bin\Lab_2b.pdb
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_2b\Lab_2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_2b\Lab_2b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_2b\Lab_2b\obj\Debug\Lab_2b.csprojAssemblyReference.cache
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_2b\Lab_2b\obj\Debug\Lab_2b.csproj.CopyComplete
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_2b\Lab_2b\obj\Debug\Lab_2b.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_2b\Lab_2b\obj\Debug\Lab_2b.pdb

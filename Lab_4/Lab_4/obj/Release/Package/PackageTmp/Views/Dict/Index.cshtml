@@ -1,0 +1,26 @@
+﻿@using Lab_4.Models
+@{
+    Layout = null;
+    List<Telephone> telephones = ViewBag.Select;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h1>MVC with Entity Framework</h1>
+        @foreach (Telephone telephone in telephones)
+        {
+            <p>[@telephone.Id] @telephone.Surname - @telephone.Number</p>
+        }
+        <h2>@Html.ActionLink("Add", "Add")</h2>
+        <h2>@Html.ActionLink("Update", "Update")</h2>
+        <h2>@Html.ActionLink("Delete", "Delete")</h2>
+    </div>
+</body>
+</html>

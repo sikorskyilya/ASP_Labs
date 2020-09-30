@@ -1,0 +1,24 @@
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\Lab7b\bin\Debug\Lab7b.exe.config
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\Lab7b\bin\Debug\Lab7b.exe
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\Lab7b\bin\Debug\Lab7b.pdb
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\Lab7b\obj\Debug\Lab7b.csprojAssemblyReference.cache
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\Lab7b\obj\Debug\Lab7b.Form1.resources
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\Lab7b\obj\Debug\Lab7b.Properties.Resources.resources
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\Lab7b\obj\Debug\Lab7b.csproj.GenerateResource.cache
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\Lab7b\obj\Debug\Lab7b.exe
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\Lab7b\obj\Debug\Lab7b.pdb
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\Lab7b\bin\Debug\Newtonsoft.Json.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\Lab7b\bin\Debug\Newtonsoft.Json.xml
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\Lab7b\obj\Debug\Lab7b.csproj.CopyComplete
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\Lab7b\bin\Debug\Lab7b.exe.config
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\Lab7b\bin\Debug\Lab7b.exe
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\Lab7b\bin\Debug\Lab7b.pdb
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\Lab7b\bin\Debug\Newtonsoft.Json.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\Lab7b\bin\Debug\Newtonsoft.Json.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\Lab7b\obj\Debug\Lab7b.csprojAssemblyReference.cache
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\Lab7b\obj\Debug\Lab7b.Form1.resources
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\Lab7b\obj\Debug\Lab7b.Properties.Resources.resources
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\Lab7b\obj\Debug\Lab7b.csproj.GenerateResource.cache
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\Lab7b\obj\Debug\Lab7b.csproj.CopyComplete
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\Lab7b\obj\Debug\Lab7b.exe
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\Lab7b\obj\Debug\Lab7b.pdb

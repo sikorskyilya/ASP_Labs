@@ -1,0 +1,24 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Update</title>
+</head>
+<body>
+    <h1>Update</h1>
+    <form method="post" action="~/Dict/Update">
+        <div>
+            <p><h6>Id: </h6><input type="number" id="id" name="id" min="0"></p>
+            <p><h6>Surname: </h6><input type="text" id="surname" name="surname" /></p>
+            <p><h6>Number: </h6><input type="number" id="number" name="number" min="0" max="999999999"></p>
+            <p><input type="submit"></p>
+        </div>
+    </form>
+</body>
+</html>

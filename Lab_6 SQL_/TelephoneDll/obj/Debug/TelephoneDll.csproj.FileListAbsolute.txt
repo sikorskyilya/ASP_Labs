@@ -1,0 +1,26 @@
+D:\ASP\Лабы\Lab_6 SQL\TelephoneDll\bin\Debug\TelephoneDll.dll.config
+D:\ASP\Лабы\Lab_6 SQL\TelephoneDll\bin\Debug\TelephoneDll.dll
+D:\ASP\Лабы\Lab_6 SQL\TelephoneDll\bin\Debug\TelephoneDll.pdb
+D:\ASP\Лабы\Lab_6 SQL\TelephoneDll\bin\Debug\EntityFramework.dll
+D:\ASP\Лабы\Lab_6 SQL\TelephoneDll\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP\Лабы\Lab_6 SQL\TelephoneDll\bin\Debug\EntityFramework.xml
+D:\ASP\Лабы\Lab_6 SQL\TelephoneDll\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASP\Лабы\Lab_6 SQL\TelephoneDll\obj\Debug\TelephoneDll.csproj.CoreCompileInputs.cache
+D:\ASP\Лабы\Lab_6 SQL\TelephoneDll\obj\Debug\TelephoneDll.csproj.CopyComplete
+D:\ASP\Лабы\Lab_6 SQL\TelephoneDll\obj\Debug\TelephoneDll.dll
+D:\ASP\Лабы\Lab_6 SQL\TelephoneDll\obj\Debug\TelephoneDll.pdb
+D:\ASP\Лабы\Lab_6 SQL\TelephoneDll\obj\Debug\TelephoneDll.csprojAssemblyReference.cache
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\TelephoneDll\bin\Debug\EntityFramework.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\TelephoneDll\bin\Debug\EntityFramework.SqlServer.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\TelephoneDll\bin\Debug\TelephoneInterface.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\TelephoneDll\bin\Debug\EntityFramework.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\TelephoneDll\bin\Debug\EntityFramework.SqlServer.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\TelephoneDll\bin\Debug\TelephoneInterface.pdb
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\TelephoneDll\bin\Debug\TelephoneInterface.dll.config
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\TelephoneDll\obj\Debug\TelephoneDll.csprojAssemblyReference.cache
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\TelephoneDll\obj\Debug\TelephoneDll.csproj.CopyComplete
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\TelephoneDll\bin\Debug\TelephoneDll_SQL.dll.config
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\TelephoneDll\bin\Debug\TelephoneDll_SQL.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\TelephoneDll\bin\Debug\TelephoneDll_SQL.pdb
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\TelephoneDll\obj\Debug\TelephoneDll_SQL.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\TelephoneDll\obj\Debug\TelephoneDll_SQL.pdb

@@ -1,0 +1,24 @@
+D:\ASP\Лабы\Lab_7c\WCF\bin\Debug\WCF.dll
+D:\ASP\Лабы\Lab_7c\WCF\bin\Debug\WCF.pdb
+D:\ASP\Лабы\Lab_7c\WCF\bin\Debug\Newtonsoft.Json.dll
+D:\ASP\Лабы\Lab_7c\WCF\bin\Debug\Newtonsoft.Json.xml
+D:\ASP\Лабы\Lab_7c\WCF\obj\Debug\WCF.csproj.CoreCompileInputs.cache
+D:\ASP\Лабы\Lab_7c\WCF\obj\Debug\WCF.csproj.CopyComplete
+D:\ASP\Лабы\Lab_7c\WCF\obj\Debug\WCF.dll
+D:\ASP\Лабы\Lab_7c\WCF\obj\Debug\WCF.pdb
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\WCF\bin\Debug\WCF.dll
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\WCF\bin\Debug\WCF.pdb
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\WCF\bin\Debug\Newtonsoft.Json.dll
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\WCF\bin\Debug\Newtonsoft.Json.xml
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\WCF\obj\Debug\WCF.csprojAssemblyReference.cache
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\WCF\obj\Debug\WCF.csproj.CopyComplete
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\WCF\obj\Debug\WCF.dll
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\WCF\obj\Debug\WCF.pdb
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\WCF\bin\Debug\WCF.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\WCF\bin\Debug\WCF.pdb
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\WCF\bin\Debug\Newtonsoft.Json.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\WCF\bin\Debug\Newtonsoft.Json.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\WCF\obj\Debug\WCF.csprojAssemblyReference.cache
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\WCF\obj\Debug\WCF.csproj.CopyComplete
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\WCF\obj\Debug\WCF.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\WCF\obj\Debug\WCF.pdb

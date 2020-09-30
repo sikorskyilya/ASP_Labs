@@ -1,0 +1,13 @@
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7c\WCF\bin\Debug\WCF.exe.config
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7c\WCF\bin\Debug\WCF.exe
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7c\WCF\bin\Debug\WCF.pdb
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7c\WCF\bin\Debug\ServiceLib.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7c\WCF\bin\Debug\Newtonsoft.Json.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7c\WCF\bin\Debug\ServiceLib.pdb
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7c\WCF\bin\Debug\Newtonsoft.Json.xml
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7c\WCF\obj\Debug\WCF.csprojAssemblyReference.cache
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7c\WCF\obj\Debug\WCF.ProjectInstaller.resources
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7c\WCF\obj\Debug\WCF.csproj.GenerateResource.cache
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7c\WCF\obj\Debug\WCF.csproj.CopyComplete
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7c\WCF\obj\Debug\WCF.exe
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7c\WCF\obj\Debug\WCF.pdb

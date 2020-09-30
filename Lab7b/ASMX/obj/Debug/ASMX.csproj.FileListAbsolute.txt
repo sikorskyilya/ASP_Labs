@@ -1,0 +1,117 @@
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\ASMX.dll.config
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\ASMX.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\ASMX.pdb
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\csc.exe
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\csc.exe.config
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\csc.rsp
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\csi.exe
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\csi.exe.config
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\csi.rsp
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.AppContext.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.Collections.Immutable.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.Console.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.Diagnostics.Process.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.IO.Compression.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.IO.FileSystem.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.IO.Pipes.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.Reflection.Metadata.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.Security.AccessControl.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.Security.Claims.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.Security.Principal.Windows.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.Threading.Thread.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.ValueTuple.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.Xml.XmlDocument.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.Xml.XPath.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\vbc.exe
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\vbc.exe.config
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\vbc.rsp
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\VBCSCompiler.exe
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\roslyn\VBCSCompiler.exe.config
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\Newtonsoft.Json.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\Newtonsoft.Json.xml
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\obj\Debug\ASMX.csproj.CopyComplete
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\obj\Debug\ASMX.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7b\ASMX\obj\Debug\ASMX.pdb
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\ASMX.dll.config
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\ASMX.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\ASMX.pdb
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\csc.exe
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\csc.exe.config
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\csc.rsp
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\csi.exe
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\csi.exe.config
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\csi.rsp
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.AppContext.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.Collections.Immutable.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.Console.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.Diagnostics.Process.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.IO.Compression.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.IO.FileSystem.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.IO.Pipes.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.Reflection.Metadata.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.Security.AccessControl.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.Security.Claims.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.Security.Principal.Windows.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.Threading.Thread.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.ValueTuple.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.Xml.XmlDocument.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.Xml.XPath.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\vbc.exe
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\vbc.exe.config
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\vbc.rsp
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\VBCSCompiler.exe
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\roslyn\VBCSCompiler.exe.config
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\Newtonsoft.Json.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\Newtonsoft.Json.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\obj\Debug\ASMX.csprojAssemblyReference.cache
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\obj\Debug\ASMX.csproj.CopyComplete
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\obj\Debug\ASMX.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab7b\ASMX\obj\Debug\ASMX.pdb

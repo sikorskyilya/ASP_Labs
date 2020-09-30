@@ -1,0 +1,33 @@
+D:\ASP\Лабы\Lab_7c\Console\bin\Debug\Console.exe.config
+D:\ASP\Лабы\Lab_7c\Console\bin\Debug\Console.exe
+D:\ASP\Лабы\Lab_7c\Console\bin\Debug\Console.pdb
+D:\ASP\Лабы\Lab_7c\Console\bin\Debug\WCF.dll
+D:\ASP\Лабы\Lab_7c\Console\bin\Debug\Newtonsoft.Json.dll
+D:\ASP\Лабы\Lab_7c\Console\bin\Debug\WCF.pdb
+D:\ASP\Лабы\Lab_7c\Console\bin\Debug\Newtonsoft.Json.xml
+D:\ASP\Лабы\Lab_7c\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+D:\ASP\Лабы\Lab_7c\Console\obj\Debug\Console.csproj.CopyComplete
+D:\ASP\Лабы\Lab_7c\Console\obj\Debug\Console.exe
+D:\ASP\Лабы\Lab_7c\Console\obj\Debug\Console.pdb
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Console\bin\Debug\Console.exe.config
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Console\bin\Debug\Console.exe
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Console\bin\Debug\Console.pdb
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Console\bin\Debug\WCF.dll
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Console\bin\Debug\Newtonsoft.Json.dll
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Console\bin\Debug\WCF.pdb
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Console\bin\Debug\Newtonsoft.Json.xml
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Console\obj\Debug\Console.csprojAssemblyReference.cache
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Console\obj\Debug\Console.csproj.CopyComplete
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Console\obj\Debug\Console.exe
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_7c\Console\obj\Debug\Console.pdb
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Console\bin\Debug\Console.exe.config
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Console\bin\Debug\Console.exe
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Console\bin\Debug\Console.pdb
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Console\bin\Debug\WCF.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Console\bin\Debug\Newtonsoft.Json.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Console\bin\Debug\WCF.pdb
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Console\bin\Debug\Newtonsoft.Json.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Console\obj\Debug\Console.csprojAssemblyReference.cache
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Console\obj\Debug\Console.csproj.CopyComplete
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Console\obj\Debug\Console.exe
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_7c\Console\obj\Debug\Console.pdb

@@ -1,0 +1,7 @@
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7c\ServiceLib\bin\Debug\ServiceLib.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7c\ServiceLib\bin\Debug\ServiceLib.pdb
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7c\ServiceLib\bin\Debug\Newtonsoft.Json.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7c\ServiceLib\bin\Debug\Newtonsoft.Json.xml
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7c\ServiceLib\obj\Debug\ServiceLib.csproj.CopyComplete
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7c\ServiceLib\obj\Debug\ServiceLib.dll
+D:\studing\6 sem\ASP\Лабораторные работы\PIS-Labs\Lab7c\ServiceLib\obj\Debug\ServiceLib.pdb

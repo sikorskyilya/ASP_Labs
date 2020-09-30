@@ -1,0 +1,629 @@
+D:\ASP\Лабы\Lab_4\Lab_4\bin\Lab_4.dll.config
+D:\ASP\Лабы\Lab_4\Lab_4\bin\Lab_4.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\Lab_4.pdb
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\csc.exe
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\csc.exe.config
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\csc.rsp
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\csi.exe
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\csi.exe.config
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\csi.rsp
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.AppContext.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.Console.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.IO.Compression.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.IO.FileSystem.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.IO.Pipes.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.Security.AccessControl.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.Security.Claims.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.ValueTuple.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.Xml.XPath.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\vbc.exe
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\vbc.exe.config
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\vbc.rsp
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\VBCSCompiler.exe
+D:\ASP\Лабы\Lab_4\Lab_4\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP\Лабы\Lab_4\Lab_4\bin\Antlr3.Runtime.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\EntityFramework.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\EntityFramework.SqlServer.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\Newtonsoft.Json.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\System.Web.Helpers.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\System.Web.Mvc.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\System.Web.Optimization.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\System.Web.Razor.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\System.Web.WebPages.Deployment.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\System.Web.WebPages.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\System.Web.WebPages.Razor.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\WebGrease.dll
+D:\ASP\Лабы\Lab_4\Lab_4\bin\EntityFramework.xml
+D:\ASP\Лабы\Lab_4\Lab_4\bin\EntityFramework.SqlServer.xml
+D:\ASP\Лабы\Lab_4\Lab_4\bin\System.Web.Helpers.xml
+D:\ASP\Лабы\Lab_4\Lab_4\bin\System.Web.Mvc.xml
+D:\ASP\Лабы\Lab_4\Lab_4\bin\System.Web.Optimization.xml
+D:\ASP\Лабы\Lab_4\Lab_4\bin\System.Web.Razor.xml
+D:\ASP\Лабы\Lab_4\Lab_4\bin\System.Web.WebPages.xml
+D:\ASP\Лабы\Lab_4\Lab_4\bin\System.Web.WebPages.Deployment.xml
+D:\ASP\Лабы\Lab_4\Lab_4\bin\System.Web.WebPages.Razor.xml
+D:\ASP\Лабы\Lab_4\Lab_4\bin\Newtonsoft.Json.xml
+D:\ASP\Лабы\Lab_4\Lab_4\bin\Antlr3.Runtime.pdb
+D:\ASP\Лабы\Lab_4\Lab_4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP\Лабы\Lab_4\Lab_4\obj\Debug\Lab_4.csprojAssemblyReference.cache
+D:\ASP\Лабы\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.CoreCompileInputs.cache
+D:\ASP\Лабы\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.CopyComplete
+D:\ASP\Лабы\Lab_4\Lab_4\obj\Debug\Lab_4.dll
+D:\ASP\Лабы\Lab_4\Lab_4\obj\Debug\Lab_4.pdb
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\Lab_4.dll.config
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\Lab_4.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\Lab_4.pdb
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\csc.exe
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\csc.exe.config
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\csc.rsp
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\csi.exe
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\csi.exe.config
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\csi.rsp
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.AppContext.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.Collections.Immutable.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.Console.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.IO.Compression.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.IO.FileSystem.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.IO.Pipes.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.Reflection.Metadata.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.Security.AccessControl.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.Security.Claims.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.ValueTuple.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.Xml.XPath.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\vbc.exe
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\vbc.exe.config
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\vbc.rsp
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\VBCSCompiler.exe
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\roslyn\VBCSCompiler.exe.config
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\Antlr3.Runtime.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\EntityFramework.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\EntityFramework.SqlServer.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\Microsoft.Web.Infrastructure.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\Newtonsoft.Json.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\System.Web.Helpers.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\System.Web.Mvc.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\System.Web.Optimization.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\System.Web.Razor.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\System.Web.WebPages.Deployment.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\System.Web.WebPages.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\System.Web.WebPages.Razor.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\WebGrease.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\EntityFramework.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\EntityFramework.SqlServer.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\System.Web.Helpers.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\System.Web.Mvc.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\System.Web.Optimization.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\System.Web.Razor.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\System.Web.WebPages.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\System.Web.WebPages.Deployment.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\System.Web.WebPages.Razor.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\Newtonsoft.Json.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\Antlr3.Runtime.pdb
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\obj\Debug\Lab_4.csprojAssemblyReference.cache
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.CoreCompileInputs.cache
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.CopyComplete
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\obj\Debug\Lab_4.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab_4\Lab_4\obj\Debug\Lab_4.pdb
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\Lab_4.dll.config
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\Lab_4.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\Lab_4.pdb
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\csc.exe
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\csc.exe.config
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\csc.rsp
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\csi.exe
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\csi.exe.config
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\csi.rsp
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.AppContext.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.Collections.Immutable.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.Console.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.IO.Compression.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.IO.FileSystem.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.IO.Pipes.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.Reflection.Metadata.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.Security.AccessControl.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.Security.Claims.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.ValueTuple.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.Xml.XPath.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\vbc.exe
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\vbc.exe.config
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\vbc.rsp
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\VBCSCompiler.exe
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\roslyn\VBCSCompiler.exe.config
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\Antlr3.Runtime.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\EntityFramework.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\EntityFramework.SqlServer.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\Microsoft.Web.Infrastructure.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\Newtonsoft.Json.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\Ninject.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\Ninject.Extensions.NamedScope.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\Ninject.Web.Common.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\Ninject.Web.Common.WebHost.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\Ninject.Web.Mvc.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\System.Web.Helpers.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\System.Web.Mvc.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\System.Web.Optimization.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\System.Web.Razor.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\System.Web.WebPages.Deployment.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\System.Web.WebPages.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\System.Web.WebPages.Razor.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\WebActivatorEx.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\WebGrease.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\EntityFramework.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\EntityFramework.SqlServer.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\Ninject.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\Ninject.Extensions.NamedScope.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\Ninject.Web.Common.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\Ninject.Web.Common.WebHost.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\Ninject.Web.Mvc.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\System.Web.Helpers.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\System.Web.Mvc.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\System.Web.Optimization.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\System.Web.Razor.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\System.Web.WebPages.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\System.Web.WebPages.Deployment.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\System.Web.WebPages.Razor.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\Newtonsoft.Json.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\Antlr3.Runtime.pdb
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\obj\Debug\Lab_4.csprojAssemblyReference.cache
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\obj\Debug\Lab_4.csproj.CoreCompileInputs.cache
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\obj\Debug\Lab_4.csproj.CopyComplete
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\obj\Debug\Lab_4.dll
+D:\Учёба\3 курс, 6 семестр\ASP\Lab6\Lab_6 SQL\Lab_4\obj\Debug\Lab_4.pdb
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\Lab_4.dll.config
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\Lab_4.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\Lab_4.pdb
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\csc.exe
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\csc.exe.config
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\csc.rsp
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\csi.exe
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\csi.exe.config
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\csi.rsp
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.AppContext.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.Console.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.IO.Compression.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.IO.FileSystem.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.IO.Pipes.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.Security.AccessControl.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.Security.Claims.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.ValueTuple.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.Xml.XPath.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\vbc.exe
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\vbc.exe.config
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\vbc.rsp
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\VBCSCompiler.exe
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\Antlr3.Runtime.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\EntityFramework.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\EntityFramework.SqlServer.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\Newtonsoft.Json.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\Ninject.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\Ninject.Extensions.NamedScope.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\Ninject.Web.Common.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\Ninject.Web.Common.WebHost.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\Ninject.Web.Mvc.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\System.Web.Helpers.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\System.Web.Mvc.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\System.Web.Optimization.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\System.Web.Razor.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\System.Web.WebPages.Deployment.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\System.Web.WebPages.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\System.Web.WebPages.Razor.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\WebActivatorEx.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\WebGrease.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\EntityFramework.xml
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\EntityFramework.SqlServer.xml
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\Ninject.xml
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\Ninject.Extensions.NamedScope.xml
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\Ninject.Web.Common.xml
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\Ninject.Web.Common.WebHost.xml
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\Ninject.Web.Mvc.xml
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\System.Web.Helpers.xml
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\System.Web.Mvc.xml
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\System.Web.Optimization.xml
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\System.Web.Razor.xml
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\System.Web.WebPages.xml
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\System.Web.WebPages.Deployment.xml
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\System.Web.WebPages.Razor.xml
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\Newtonsoft.Json.xml
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\Antlr3.Runtime.pdb
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\obj\Debug\Lab_4.csproj.CoreCompileInputs.cache
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\obj\Debug\Lab_4.csproj.CopyComplete
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\obj\Debug\Lab_4.dll
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\obj\Debug\Lab_4.pdb
+D:\ASP\Лабы\Lab_6 SQL\Lab_4\obj\Debug\Lab_4.csprojAssemblyReference.cache
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\Lab_4.dll.config
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\Lab_4.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\Lab_4.pdb
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\csc.exe
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\csc.exe.config
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\csc.rsp
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\csi.exe
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\csi.exe.config
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\csi.rsp
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.Managed.Core.targets
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.AppContext.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.Collections.Immutable.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.Console.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.IO.Compression.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.IO.FileSystem.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.IO.Pipes.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.Reflection.Metadata.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.Security.AccessControl.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.Security.Claims.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.Security.Principal.Windows.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.ValueTuple.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.Xml.XmlDocument.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.Xml.XPath.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\vbc.exe
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\vbc.exe.config
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\vbc.rsp
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\VBCSCompiler.exe
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\roslyn\VBCSCompiler.exe.config
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\Antlr3.Runtime.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\EntityFramework.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\EntityFramework.SqlServer.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\Microsoft.Web.Infrastructure.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\Newtonsoft.Json.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\Ninject.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\Ninject.Extensions.NamedScope.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\Ninject.Web.Common.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\Ninject.Web.Common.WebHost.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\Ninject.Web.Mvc.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\System.Web.Helpers.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\System.Web.Mvc.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\System.Web.Optimization.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\System.Web.Razor.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\System.Web.WebPages.Deployment.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\System.Web.WebPages.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\System.Web.WebPages.Razor.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\WebActivatorEx.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\WebGrease.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\EntityFramework.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\EntityFramework.SqlServer.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\Ninject.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\Ninject.Extensions.NamedScope.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\Ninject.Web.Common.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\Ninject.Web.Common.WebHost.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\Ninject.Web.Mvc.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\System.Web.Helpers.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\System.Web.Mvc.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\System.Web.Optimization.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\System.Web.Razor.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\System.Web.WebPages.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\System.Web.WebPages.Deployment.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\System.Web.WebPages.Razor.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\Newtonsoft.Json.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\Antlr3.Runtime.pdb
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\obj\Debug\Lab_4.csprojAssemblyReference.cache
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\obj\Debug\Lab_4.csproj.CopyComplete
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\obj\Debug\Lab_4.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL\Lab_4\obj\Debug\Lab_4.pdb
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\Lab_4.dll.config
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\Lab_4.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\Lab_4.pdb
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\csc.exe
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\csc.exe.config
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\csc.rsp
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\csi.exe
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\csi.exe.config
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\csi.rsp
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\Microsoft.Managed.Core.targets
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.AppContext.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Collections.Immutable.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Console.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.IO.Compression.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.IO.FileSystem.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.IO.Pipes.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Reflection.Metadata.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Security.AccessControl.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Security.Claims.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Security.Principal.Windows.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.ValueTuple.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Xml.XmlDocument.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Xml.XPath.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\vbc.exe
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\vbc.exe.config
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\vbc.rsp
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\VBCSCompiler.exe
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\roslyn\VBCSCompiler.exe.config
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\Antlr3.Runtime.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\EntityFramework.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\EntityFramework.SqlServer.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\Microsoft.Web.Infrastructure.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\Newtonsoft.Json.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\Ninject.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\Ninject.Extensions.NamedScope.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\Ninject.Web.Common.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\Ninject.Web.Common.WebHost.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\Ninject.Web.Mvc.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\System.Web.Helpers.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\System.Web.Mvc.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\System.Web.Optimization.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\System.Web.Razor.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\System.Web.WebPages.Deployment.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\System.Web.WebPages.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\System.Web.WebPages.Razor.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\TelephoneInterface.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\WebActivatorEx.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\WebGrease.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\EntityFramework.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\EntityFramework.SqlServer.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\Ninject.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\Ninject.Extensions.NamedScope.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\Ninject.Web.Common.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\Ninject.Web.Common.WebHost.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\Ninject.Web.Mvc.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\System.Web.Helpers.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\System.Web.Mvc.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\System.Web.Optimization.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\System.Web.Razor.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\System.Web.WebPages.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\System.Web.WebPages.Deployment.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\System.Web.WebPages.Razor.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\Newtonsoft.Json.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\TelephoneInterface.pdb
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\TelephoneInterface.dll.config
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\Antlr3.Runtime.pdb
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\obj\Debug\Lab_4.csproj.CopyComplete
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\obj\Debug\Lab_4.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\obj\Debug\Lab_4.pdb
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\TelephoneDll_SQL.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\TelephoneDll_SQL.pdb
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\TelephoneDll_SQL.dll.config
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\TelephoneDll_Json.dll
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\TelephoneDll_Json.pdb
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\bin\TelephoneDll_Json.dll.config
+D:\studing\6 sem\ASP\Labs\labs\Lab_6 SQL_\Lab_4\obj\Debug\Lab_4.csprojAssemblyReference.cache
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\Lab_4.dll.config
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\Lab_4.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\Lab_4.pdb
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\csc.exe
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\csc.exe.config
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\csc.rsp
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\csi.exe
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\csi.exe.config
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\csi.rsp
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\Microsoft.Managed.Core.targets
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.AppContext.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Collections.Immutable.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Console.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.IO.Compression.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.IO.FileSystem.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.IO.Pipes.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Reflection.Metadata.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Security.AccessControl.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Security.Claims.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Security.Principal.Windows.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.ValueTuple.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Xml.XmlDocument.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Xml.XPath.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\vbc.exe
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\vbc.exe.config
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\vbc.rsp
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\VBCSCompiler.exe
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\roslyn\VBCSCompiler.exe.config
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\Antlr3.Runtime.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\EntityFramework.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\EntityFramework.SqlServer.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\Microsoft.Web.Infrastructure.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\Newtonsoft.Json.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\Ninject.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\Ninject.Extensions.NamedScope.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\Ninject.Web.Common.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\Ninject.Web.Common.WebHost.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\Ninject.Web.Mvc.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\System.Web.Helpers.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\System.Web.Mvc.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\System.Web.Optimization.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\System.Web.Razor.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\System.Web.WebPages.Deployment.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\System.Web.WebPages.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\System.Web.WebPages.Razor.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\TelephoneDll_SQL.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\TelephoneInterface.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\WebActivatorEx.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\WebGrease.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\EntityFramework.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\EntityFramework.SqlServer.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\Ninject.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\Ninject.Extensions.NamedScope.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\Ninject.Web.Common.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\Ninject.Web.Common.WebHost.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\Ninject.Web.Mvc.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\System.Web.Helpers.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\System.Web.Mvc.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\System.Web.Optimization.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\System.Web.Razor.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\System.Web.WebPages.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\System.Web.WebPages.Deployment.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\System.Web.WebPages.Razor.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\Newtonsoft.Json.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\TelephoneDll_Json.pdb
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\TelephoneDll_Json.dll.config
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\TelephoneDll_SQL.pdb
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\TelephoneDll_SQL.dll.config
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\TelephoneInterface.pdb
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\TelephoneInterface.dll.config
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\Antlr3.Runtime.pdb
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\obj\Debug\Lab_4.csproj.CopyComplete
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\obj\Debug\Lab_4.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\obj\Debug\Lab_4.pdb
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_6 SQL_\Lab_4\obj\Debug\Lab_4.csprojAssemblyReference.cache

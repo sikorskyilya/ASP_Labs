@@ -1,0 +1,112 @@
+D:\ASP\Лабы\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Lab_8.deps.json
+D:\ASP\Лабы\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Lab_8.runtimeconfig.json
+D:\ASP\Лабы\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Lab_8.runtimeconfig.dev.json
+D:\ASP\Лабы\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Lab_8.dll
+D:\ASP\Лабы\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Lab_8.pdb
+D:\ASP\Лабы\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Lab_8.Views.dll
+D:\ASP\Лабы\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Lab_8.Views.pdb
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.csprojAssemblyReference.cache
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.csproj.CoreCompileInputs.cache
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.RazorAssemblyInfo.cache
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.RazorAssemblyInfo.cs
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.AssemblyInfoInputs.cache
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.AssemblyInfo.cs
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.TagHelpers.input.cache
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.TagHelpers.output.cache
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.RazorCoreGenerate.cache
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.RazorTargetAssemblyInfo.cache
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.RazorTargetAssemblyInfo.cs
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.Views.pdb
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.dll
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.pdb
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.csproj.CopyComplete
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Dict\Index.g.cshtml.cs
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Dict\Add.g.cshtml.cs
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Dict\Update.g.cshtml.cs
+D:\ASP\Лабы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Dict\Delete.g.cshtml.cs
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\appsettings.json
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Lab_8.deps.json
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Lab_8.runtimeconfig.json
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Lab_8.runtimeconfig.dev.json
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Lab_8.dll
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Lab_8.pdb
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Lab_8.Views.dll
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Lab_8.Views.pdb
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.csprojAssemblyReference.cache
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.RazorAssemblyInfo.cache
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.RazorAssemblyInfo.cs
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.AssemblyInfoInputs.cache
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.AssemblyInfo.cs
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.TagHelpers.input.cache
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.TagHelpers.output.cache
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.RazorCoreGenerate.cache
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Dict\Add.cshtml.g.cs
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Dict\Delete.cshtml.g.cs
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Dict\Index.cshtml.g.cs
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Dict\Update.cshtml.g.cs
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.RazorTargetAssemblyInfo.cache
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.RazorTargetAssemblyInfo.cs
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.Views.pdb
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.dll
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.pdb
+D:\studing\6 sem\ASP\Лабораторные работы\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.csproj.CopyComplete
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\appsettings.json
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Lab_8.deps.json
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Lab_8.runtimeconfig.json
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Lab_8.runtimeconfig.dev.json
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Lab_8.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Lab_8.pdb
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Lab_8.Views.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\bin\Debug\netcoreapp2.1\Lab_8.Views.pdb
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.csprojAssemblyReference.cache
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.RazorAssemblyInfo.cache
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.RazorAssemblyInfo.cs
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.AssemblyInfoInputs.cache
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.AssemblyInfo.cs
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.TagHelpers.input.cache
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.TagHelpers.output.cache
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.RazorCoreGenerate.cache
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Dict\Add.cshtml.g.cs
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Dict\Delete.cshtml.g.cs
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Dict\Index.cshtml.g.cs
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Dict\Update.cshtml.g.cs
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.RazorTargetAssemblyInfo.cache
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.RazorTargetAssemblyInfo.cs
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.Views.pdb
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.dll
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.pdb
+D:\studing_6sem\6 sem\ASP\ASP_Labs\Lab_8\Lab_8\obj\Debug\netcoreapp2.1\Lab_8.csproj.CopyComplete
